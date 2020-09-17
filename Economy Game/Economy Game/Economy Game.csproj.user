@@ -7,7 +7,33 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Game.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NewGameSave.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Options.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Game.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NewGameSave.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Options.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

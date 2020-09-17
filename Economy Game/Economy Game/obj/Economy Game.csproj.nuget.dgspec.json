@@ -41,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "ini-parser": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

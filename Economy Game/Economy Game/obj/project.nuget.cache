@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "WYC1jG7JhTT/KjGWVr2ZQ4tk/jqkH2GG30QHCgwo84iLbtfwJ2SBvxA4s/p2uHsJRmy/KuEKVZ9BayHmjjJW8A==",
+  "dgSpecHash": "3eDkuEqNKlWVLMCRFzzd0Rf/hZBx6iv4x92ynzGb5iJg7kdUe5WLA5Im9SImGduRv88y6JQ4LeJB+zjo4c0ciw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nicho\\source\\repos\\Economy-Stock-Market-Game\\Economy Game\\Economy Game\\Economy Game.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ini-parser 2.5.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ini-parser",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

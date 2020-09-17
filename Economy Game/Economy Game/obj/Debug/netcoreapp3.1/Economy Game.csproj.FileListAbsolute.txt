@@ -1,0 +1,29 @@
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\Economy Game.exe
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\Economy Game.deps.json
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\Economy Game.runtimeconfig.json
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\Economy Game.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\Economy Game.dll
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\Economy Game.pdb
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game_MarkupCompile.cache
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game_MarkupCompile.lref
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.g.resources
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.AssemblyInfo.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.dll
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.pdb
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.genruntimeconfig.cache
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\NewGameSave.g.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Options.g.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\NewGameSave.baml
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Options.baml
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\MainMenu.g.cs
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\MainMenu.baml
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\bin\Debug\netcoreapp3.1\INIFileParser.dll
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\obj\Debug\netcoreapp3.1\Economy Game.csproj.CopyComplete

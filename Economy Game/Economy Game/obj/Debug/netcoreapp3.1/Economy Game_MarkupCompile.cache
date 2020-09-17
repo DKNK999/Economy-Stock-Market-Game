@@ -1,5 +1,5 @@
 ﻿Economy Game
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\nicho\source\repos\Economy-Stock-Market-Game\Economy Game\Economy Game\App.xaml
 5-1641472187
 
-10-332882458
+8-679518177
 1932127223723
 Game.xaml;MainMenu.xaml;MainWindow.xaml;NewGameSave.xaml;Options.xaml;
 
-True
+False
 

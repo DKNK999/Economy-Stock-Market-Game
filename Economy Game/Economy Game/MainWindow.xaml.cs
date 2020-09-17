@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.IO;
+using IniParser;
+using IniParser.Model;
+using IniParser.Parser;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
@@ -23,6 +27,19 @@ namespace Economy_Game
         public MainWindow()
         {
             InitializeComponent();
+            MainMenu mainMenu = new MainMenu();
+            frame_MainWindow.NavigationService.Navigate(mainMenu);
+
+            if (File.Exists(@"C:\Users\nicho\Documents\My Games\EconomyGame\Config.ini") == true)
+            {
+
+            }
+            else
+            {
+                File.Create(@"C:\Users\nicho\Documents\My Games\EconomyGame\Config.ini");
+            }
+
         }
     }
 }
+
